@@ -21,3 +21,12 @@ int Assistente::getMatricula()
 {
     return matricula;
 }
+
+void Assistente::exibeDados()
+{
+    cout << "======================" << endl;
+    cout << "Matricula: " << getMatricula() << endl;
+    cout << "Funcionario: " << getNome() << endl;
+    cout << "Salario: R$ " << getSalario() << endl;
+    cout << "======================" << endl;
+}

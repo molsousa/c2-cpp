@@ -1,15 +1,16 @@
 #include <iostream>
-#include "funcionario.h"
+#include "Funcionario/Assistente/Administrativo/Administrativo.h"
 
 using namespace std;
 
 int main()
 {
-    Funcionario *f1 = new Assistente();
+    Administrativo* adm = new Administrativo(true);
 
-    f1->exibeDados();
+    adm->exibeDados();
+    cout << adm->ganhoAnual() << endl;
 
-    delete f1;
+    delete adm;
 
     return 0;
 }
