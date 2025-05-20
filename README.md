@@ -5,3 +5,5 @@
 - **Exercício Funcionários** -> Uso de herança durante o exercício inteiro.
 
 - Implementação de **lista encadeada** a fins didáticos.
+
+- **Exercício Círculo** -> Exercício que utiliza herança
