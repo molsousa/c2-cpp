@@ -7,3 +7,5 @@
 - Implementação de **lista encadeada** a fins didáticos.
 
 - **Exercício Círculo** -> Exercício que utiliza herança
+
+- Implementação de **árvore binária** a fins didáticos.
