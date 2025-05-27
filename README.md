@@ -8,8 +8,6 @@
 
 - **Exercício Círculo** -> Exercício que utiliza herança
 
-<<<<<<< HEAD
-- Implementação de **árvore binária** a fins didáticos.
-=======
 - **Exercício Contador** -> Exercício para incrementar, zerar e imprimir objeto contador.
->>>>>>> 182820073ec14322ef67b6b4a73d2b518a8695af
+
+- Implementação de **árvore binária** a fins didáticos.
