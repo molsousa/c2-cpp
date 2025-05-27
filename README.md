@@ -7,3 +7,5 @@
 - Implementação de **lista encadeada** a fins didáticos.
 
 - **Exercício Círculo** -> Exercício que utiliza herança
+
+- **Exercício Contador** -> Exercício para incrementar, zerar e imprimir objeto contador.
