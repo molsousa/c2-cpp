@@ -11,3 +11,7 @@
 - **Exercício Contador** -> Exercício para incrementar, zerar e imprimir objeto contador.
 
 - Implementação de **árvore binária** a fins didáticos.
+
+- **Exercicio Pessoa** -> Uso de recursão e arvore genealogica
+
+- **Exercício Matriz** -> Alto uso de sobrecarga de operadores e construtor
