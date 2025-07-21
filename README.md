@@ -12,6 +12,8 @@
 
 - Implementação de **árvore binária** a fins didáticos.
 
-- **Exercicio Pessoa** -> Uso de recursão e arvore genealogica
+- **Exercicio Pessoa** -> Uso de recursão e arvore genealogica.
 
-- **Exercício Matriz** -> Alto uso de sobrecarga de operadores e construtor
+- **Exercício Matriz** -> Alto uso de sobrecarga de operadores e construtor.
+
+- **Exercicio Vetor** -> Uso de template.
