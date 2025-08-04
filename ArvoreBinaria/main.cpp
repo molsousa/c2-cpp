@@ -1,22 +1,35 @@
-#include "Arvore/arvore.h"
+#include "arvore.h"
 
 int main()
 {
-    Arvore* raiz = new Arvore();
+    Arvore<int> r;
 
-    raiz->inserirElemento(4);
-    raiz->inserirElemento(2);
-    raiz->inserirElemento(3);
-    raiz->inserirElemento(1);
-    raiz->inserirElemento(6);
-    raiz->inserirElemento(5);
-    raiz->inserirElemento(7);
+    r.inserir(11);
+    r.inserir(4);
+    r.inserir(2);
+    r.inserir(3);
+    r.inserir(9);
+    r.inserir(1);
+    r.inserir(23);
+    r.inserir(21);
+    r.inserir(18);
+    r.inserir(12);
+    r.inserir(17);
+    r.inserir(22);
+    r.inserir(8);
+    r.inserir(7);
 
-    raiz->removerElemento(4);
+    r.remover(11);
+    r.remover(12);
+    r.remover(7);
 
-    raiz->imprimirArvore();
+    r.inserir(10);
+    r.inserir(24);
+    r.inserir(25);
 
-    delete raiz;
+    r.imprimir_niveis();
+
+    cout << r.busca(5) << endl;
 
     return 0;
 }
